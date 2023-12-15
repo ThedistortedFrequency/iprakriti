@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810266796578",
+    "project_id": "iprakriti",
+    "storage_bucket": "iprakriti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810266796578:android:ff96ac454f85140291207b",
+        "android_client_info": {
+          "package_name": "com.example.iprakriti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqtBPtFRxZ6MxZlKlsny93ygIrGNa0vFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
